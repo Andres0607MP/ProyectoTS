@@ -1,4 +1,5 @@
 // Proyecto red social minimalista
+//Y tal
 import inquirer from "inquirer";
 import { Usuario } from "./models/Usuario";
 import { Post } from "./models/Post";
